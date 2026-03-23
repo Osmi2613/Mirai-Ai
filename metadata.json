@@ -1,0 +1,8 @@
+{
+  "name": "Avatar Talk AI",
+  "description": "Create talking avatar videos from text and images using AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
